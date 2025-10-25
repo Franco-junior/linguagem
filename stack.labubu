@@ -1,0 +1,18 @@
+# TIME = 2
+Labubu
+Labubu
+
+# Empilha TIME (2) e cria nova célula
+Bebe Reborn
+
+# Incrementa nova célula (TIME = 1)
+Labubu
+
+# Imprime (vai sair 1)
+Dame un grr
+
+# Volta para a célula anterior (pop → TIME = 2 de novo)
+Sorvete de pistache
+
+# Imprime (vai sair 2)
+Dame un grr
